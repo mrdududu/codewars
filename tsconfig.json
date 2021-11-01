@@ -1,0 +1,12 @@
+{
+  "compilerOptions": {
+    "strict": true,
+    // "allowJs": true,
+    // "moduleResolution": "node",
+    // "module": "ESNext",
+    "target": "ES3",
+    // "resolveJsonModule": true,
+    // "allowSyntheticDefaultImports": true,
+    "lib": ["DOM", "ESNext"]
+  }
+}
